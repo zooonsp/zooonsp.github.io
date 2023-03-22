@@ -291,6 +291,4 @@ defaults:
       comments: # true
       share: true
       related: true
-      # mathjax: true
-      sidebar:                  # 추가한 부분
-      nav: "sidebar-category"
+      mathjax: true
