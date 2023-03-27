@@ -2,7 +2,7 @@
 title: "First"
 excerpt: "Blog"
 category: 
- - Blog
+ - blog
 tags:
  - [Blog, jekyll, Github, Git]
 author_profile: true
