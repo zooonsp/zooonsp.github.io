@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "박준섭"
   avatar           : "/assets/img/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "역삼동 불주먹(수정테스트)"
+  bio              : "역삼동 불주먹"
   location         : "역삼"
   email            : 
   links:
