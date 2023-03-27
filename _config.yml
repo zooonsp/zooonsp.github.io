@@ -20,7 +20,7 @@ title                    : "Zooonscript"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "박준섭"
-description              : "역삼동 불주먹(수정테스트)"
+description              : "역삼동 불주먹"
 url                      : https//zooonsp.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "박준섭"
   avatar           : "/assets/img/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "역삼동 불주먹"
+  bio              : "역삼동 불주먹(수정테스트)"
   location         : "역삼"
   email            : 
   links:
